@@ -1,5 +1,5 @@
 {
-  "name": "@m4m/soda-media-3d",
+  "name": "@soda/m4m-3d-gltf",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.cjs.js",
@@ -15,8 +15,8 @@
     "build": "father-build",
     "build:watch": "father-build --watch"
   },
-  "author": "EuclidTwin",
-  "license": "ISC",
+  "author": "MetaYoyo",
+  "license": "AGPL-3.0+",
   "dependencies": {
     "@babel/runtime": "^7.17.9",
     "@soda/soda-media-sdk": "workspace:^0.0.1"
